@@ -1,3 +1,27 @@
-# Codebet
+Skip to content
+Navigation Menu
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/RahulXDTT/Codebet)
+    RahulXDTT
+
+    Codebet
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+Owner avatar
+Codebet
+Public
+
+RahulXDTT/Codebet
+t
+Name	Last commit message
+	Last commit date
+... (Content omitted for brevity) ...
